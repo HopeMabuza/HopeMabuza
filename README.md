@@ -45,11 +45,9 @@ Exploring the ERC-721 standard and NFT minting mechanics.
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HopeMabuza&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Hope's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HopeMabuza&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+- 🗂️ **22** public repositories
+- 🔤 **Top Languages:** Solidity · JavaScript · HTML
+- 🌍 Based in Johannesburg, South Africa
 
 ---
 
@@ -63,7 +61,7 @@ Exploring the ERC-721 standard and NFT minting mechanics.
 
 ## 📬 Get in Touch
 
-- GitHub: [@HopeMabuza](https://github.com/HopeMabuza)
+- Linkden: [@HopeMabuza](https://www.linkedin.com/in/hope-mabuza/)
 - Location: Johannesburg, South Africa
 
 ---
