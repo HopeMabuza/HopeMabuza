@@ -1,68 +1,63 @@
 <h1 align="center">Hey, I'm Hope Mabuza 👋</h1>
+<p align="center">
+  <em>Blockchain Developer · Smart Contract Engineer · Based in Johannesburg, South Africa 🇿🇦</em>
+</p>
 
 <p align="center">
-  <em>Junior Developer · Aspiring Blockchain Engineer · Based in Johannesburg, South Africa 🇿🇦</em>
+  <a href="https://hopemabuza.github.io/Portfolio/">Portfolio</a> ·
+  <a href="https://linkedin.com/in/hope-mabuza">LinkedIn</a> ·
+  <a href="https://blockchain-journal-hope-mabuza.gitbook.io/blockchain-journal-hope-mabuza-docs/">Learning Journal</a> ·
+  <a href="mailto:hopemabuzadev@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🧠 About Me
+## About Me
 
-I'm a developer with a passion for building secure, trustless systems on the blockchain. Right now I'm deep in the world of **Solidity**, **Hardhat**, and **upgradeable smart contract architectures** — learning by building.
+I'm a blockchain developer specialising in smart contract engineering, backend server development, and full-stack dApp delivery. Before completing my software development programme at WeThinkCode, I was already building in production as a developer at the African Blockchain Club.
 
-When I'm not writing contracts, I'm thinking about how decentralised technology can solve real-world problems.
+I write secure, tested, deployable contracts and connect them end-to-end — from Solidity logic to Node.js backends to React frontends.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Blockchain & Web3**
-- Solidity · Hardhat · Ethers.js · OpenZeppelin · ERC-20 · ERC-721
+Solidity · Hardhat · ethers.js · Chainlink VRF · ERC-20 · ERC-721 · DeFi Protocols · Smart Contract Security
+
+**Backend**
+Node.js · Express.js · REST APIs · ABI Integration · SQL
 
 **Frontend**
-- JavaScript · HTML · CSS
+React · JavaScript · HTML · CSS · Web3 Wallet Integration
 
 **Tools**
-- Git · GitHub · VS Code
+Git · GitHub · VS Code · CLI
 
 ---
 
-## 🚀 Featured Projects
+## Featured Work
 
-### 🎰 [Web3LotteryGame](https://github.com/HopeMabuza/Web3LotteryGame)
-A decentralised lottery built in Solidity — transparent, trustless, and on-chain.
+I build across the full Ethereum stack — DeFi protocols, NFT contracts, governance systems, and Web3 dApps. Check out my pinned repos below or visit my portfolio for highlights.
 
-### 💰 [EthRewardPool](https://github.com/HopeMabuza/EthRewardPool)
-A Solidity smart contract for managing Ethereum reward distributions.
-
-### 🏪 [VendingMachine-dApp](https://github.com/HopeMabuza/VendingMachine-dApp)
-A Web3 vending machine dApp — a classic intro to dApp development with a JavaScript frontend.
-
-### 🎨 [NFT_ERC721](https://github.com/HopeMabuza/NFT_ERC721)
-Exploring the ERC-721 standard and NFT minting mechanics.
+👉 [hopemabuza.github.io/Portfolio](https://hopemabuza.github.io/Portfolio/)
 
 ---
 
-## 📈 GitHub Stats
+## Currently Learning
 
-- 🗂️ **22** public repositories
-- 🔤 **Top Languages:** Solidity · JavaScript · HTML
-- 🌍 Based in Johannesburg, South Africa
-
----
-
-## 🌱 Currently Learning
-
-- Upgradeable smart contract patterns (Proxy, UUPS)
-- Entity-Relationship modelling for dApp data layers
-- Advanced Hardhat testing & deployment pipelines
+- Blockchain server architecture and database design for dApps
+- Advanced DeFi protocol mechanics
+- Smart contract security and auditing patterns
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
-- Linkden: [@HopeMabuza](https://www.linkedin.com/in/hope-mabuza/)
-- Location: Johannesburg, South Africa
+- Portfolio: [hopemabuza.github.io/Portfolio](https://hopemabuza.github.io/Portfolio/)
+- LinkedIn: [hope-mabuza](https://linkedin.com/in/hope-mabuza)
+- Email: hopemabuzadev@gmail.com
+- Learning Journal: [GitBook](https://blockchain-journal-hope-mabuza.gitbook.io/blockchain-journal-hope-mabuza-docs/)
 
 ---
 
