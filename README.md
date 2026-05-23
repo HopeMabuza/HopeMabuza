@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a blockchain developer specialising in smart contract engineering, backend server development, and full-stack dApp delivery. Before completing my software development programme at WeThinkCode, I was already building in production as a developer at the African Blockchain Club.
+I'm a blockchain developer specialising in smart contract engineering, backend server development, and full-stack dApp delivery. Before completing my software development programme at WeThinkCode, I was already building in production as a developer at the Africa's Blockchain Club.
 
 I write secure, tested, deployable contracts and connect them end-to-end — from Solidity logic to Node.js backends to React frontends.
 
