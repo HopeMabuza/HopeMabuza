@@ -23,7 +23,7 @@ I write secure, tested, deployable contracts and connect them end-to-end — fro
 ## Tech Stack
 
 **Blockchain & Web3**  
-Solidity · Hardhat · ethers.js · Chainlink VRF · ERC-20 · ERC-721 · DeFi Protocols · Smart Contract Security
+Solidity · Hardhat · ethers.js · Chainlink VRF · ERC-20 · ERC-721 · DeFi Protocols · Smart Contract Security · Smart Accounts
 
 **Backend**  
 Node.js · Express.js · REST APIs · ABI Integration · SQL
